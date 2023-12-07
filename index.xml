@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS3 Conference 2024 – CS3 Conference 2024</title>
-    <link>/</link>
+    <link>/2024/</link>
     <description>Recent content on CS3 Conference 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/2024/index.xml" rel="self" type="application/rss+xml" />
     
     
       
